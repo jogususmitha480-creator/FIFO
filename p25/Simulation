@@ -1,0 +1,11 @@
+WRITE: Data = a1
+WRITE: Data = b2
+WRITE: Data = c3
+WRITE: Data = d4
+
+READ : Data = a1
+READ : Data = b2
+READ : Data = c3
+READ : Data = d4
+
+FIFO simulation completed successfully.WRITE: Data = a1
